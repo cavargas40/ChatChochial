@@ -1,0 +1,34 @@
+.message {
+    border: none;
+    background-color: transparent;
+    padding-top: 2px !important;
+    padding-bottom: 0px !important;
+    min-height: 60px !important;
+}
+
+.chat-container {
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.sender-img {
+    width: 60%;
+    height: 60%;
+}
+
+.small-text {
+    font-size: 0.8rem;
+    color: #ee6e73;
+}
+
+audio {
+    background-color: transparent;
+}
+
+.sender{
+    font-weight: bold;
+}
+
+.bold{
+    font-weight: bold;
+}
